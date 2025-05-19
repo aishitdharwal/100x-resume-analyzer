@@ -1,3 +1,5 @@
 streamlit
 groq
 PyPDF2
+boto3
+uuid
